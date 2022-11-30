@@ -3,10 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monalipandhram&label=Profile%20views&color=0e75b6&style=flat" alt="monalipandhram" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monalipandhram" alt="monalipandhram" /></a> </p>
-
+<br><br>
 - 🌱 I’m currently learning **Javascript language**
 
 - 📝 I regularly write articles on [@whizzcoding](@whizzcoding)
@@ -14,6 +11,13 @@
 - 💬 Ask me about **HTML5 ,CSS3 ,Bootstrap**
 
 - 📫 How to reach me **monalipandhram7@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monalipandhram&label=Profile%20views&color=0e75b6&style=flat" alt="monalipandhram" /> </p>
+
+<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monalipandhram" alt="monalipandhram" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalipandhram&show_icons=true&locale=en&layout=compact" alt="monalipandhram" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monalipandhram&show_icons=true&locale=en" alt="monalipandhram" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monalipandhram&" alt="monalipandhram" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=monalipandhram&show_icons=true&locale=en" alt="monalipandhram" /></p>
+<br>
+<br>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=monalipandhram&" alt="monalipandhram" /></p>
