@@ -34,3 +34,5 @@
 <br>
 <br>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=monalipandhram&" alt="monalipandhram" /></p>
+<br><br>
+<p align = "center">Thanks for watching ! Have a nice day !</p>
