@@ -35,7 +35,7 @@ I feel most in my place while continously operating in these roles as a front-en
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=monalipandhram&show_icons=true&locale=en" alt="monalipandhram" /></p>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=monalipandhram&" alt="monalipandhram" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=monalipandhram&" alt="" /></p>
 <br><br>
 <p align = "center">Thanks for watching ! Have a nice day !</p>
 
