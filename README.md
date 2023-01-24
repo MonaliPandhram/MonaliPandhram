@@ -1,6 +1,8 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I'm Monali pandhram</h1>
-<h4 align="center">I am frontend developer from India. I have a passion for learning and sharing my knowledge with others as publicly as possible.
-I feel most in my place while continously operating in these roles as a front-end developer.</h4>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=purple&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Monali+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Monali Pandhram and Welcome to my Profile! animated typed out" width="100%"/>
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
+<h3 align="center">I am frontend developer from India. I have a passion for learning and sharing my knowledge with others as publicly as possible.
+I feel most in my place while continously operating in these roles as a front-end developer.</h3>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
@@ -21,23 +23,24 @@ I feel most in my place while continously operating in these roles as a front-en
 <br>
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monalipandhram" alt="monalipandhram" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/monali-pandhram-21b11224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monali-pandhram-21b11224b/" height="30" width="40" /></a>
 <a href="https://instagram.com/whizzcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whizzcoding" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<h2 align="left"><strong>Languages , Frameworks and Tools</strong></h2>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="skills logos" /> <br>
+</p>
 
-<p><img align="right"</p>
-
-<p>&nbsp;<img align="left" </p>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=monalipandhram&" alt="" /></p>
-<br><br>
-<p align = "center">Thanks for watching ! Have a nice day !</p>
-
-<h5 align = "right">-From Monali Pandhram</h5>
+<!--my github stats-->
+<div align = "center">
+<h2 align = "left"> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://streak-stats.demolab.com?user=monalipandhram&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://github-readme-stats-monalipandhram.vercel.app/api?username=monalipandhram&theme=radical" height="150" alt="">
+</div>
+<img src="./assets/borderseparator.gif" width="100%"/>
+<p align = "center">Thanks for watching ! Have a nice day !
+<h5 align = "center"><i>-From Monali Pandhram</i></h5>
 
