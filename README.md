@@ -13,7 +13,7 @@ I feel most in my place while continously operating in these roles as a front-en
 
 - 📝 I regularly write articles on [@whizzcoding](@whizzcoding)
 
-- 💬 Ask me about **HTML5 ,CSS3 ,Bootstrap**
+- 💬 Ask me about **HTML5 ,CSS3 ,Bootstrap,Javascript**
 
 - 📫 How to reach me **monalipandhram7@gmail.com**
 
